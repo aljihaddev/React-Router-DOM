@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
 import Button from "../common/Button"
-import Container from "../common/container"
+import Container from "../common/Container"
 import Flex from "../common/Flex"
 import { BiChevronDown } from "react-icons/bi";
 
